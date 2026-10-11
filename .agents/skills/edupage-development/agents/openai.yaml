@@ -1,0 +1,4 @@
+interface:
+  display_name: "EduPage Local Developer"
+  short_description: "Lokální rozvoj EduPage API a studentského dashboardu"
+  default_prompt: "Použij $edupage-development, přečti projektový kontext a dokonči požadovanou změnu pouze na localhostu bez spouštění testů."
